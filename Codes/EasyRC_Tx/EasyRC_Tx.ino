@@ -31,7 +31,6 @@ uint8_t broadMAC[] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF}; //using this MAC addr
 
 //global variables
 int speed = 0;
-int oldspeed = 0;
 int steer = 0;
 int rctimer = 0;
 int battimer = 0;
@@ -41,6 +40,7 @@ int speedcenter = 0;
 int steercenter = 0;
 int analogspeed = 0;
 int analogsteer = 0;
+
 
 //ESP-NOW setup
 /*
@@ -126,7 +126,6 @@ void loop() {
 }
 
 void readXaxis(){
-  oldspeed = speed;
   speed = analogRead(joyx);
   analogspeed = speed;
   if (speed>speedcenter-200&&speed<speedcenter+200){ //sets +-5% from the center value of the joystick as zero
