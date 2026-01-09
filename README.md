@@ -6,7 +6,7 @@ Description
 ---
 EasyRC is an easy-to-build platform for creating your own remote-controlled vehicle. The platform includes CAD files for printing a 1:16 scale car as well as a small remote control. Further, it includes the project and production files for the printed circuit boards that are needed to power these devices. Last but not least, it lists all required components in a bill of materials and comes with a complete instruction manual that shows how to print, solder, assemble, and program everything.
 
-The idea of this platform is to serve as a starting point for people who are interested in DIY hobby electronics as well as 3D printing, but were reluctant so far due to the initial burdens that are associated with the complexity of these topics. Hence, EasyRC offers a simple start for beginners, but due to its open-source character, it offers full freedom to tweak, redesign and reprogram all parts of the project.
+The idea of this platform is to serve as a starting point for people who are interested in DIY hobby electronics as well as 3D printing, but were reluctant so far due to the initial burdens that are associated with the complexity of these topics. Hence, EasyRC offers a simple start for beginners, but due to its open-source character, it offers full freedom to tweak, redesign, and reprogram all parts of the project.
 
 The 1:16 scale vehicle is designed for indoor use (for the sake of simplicity, it does not encompass suspension) and can be safely operated by kids (maximum speed is 10 km/h but can be set lower within the software). Hence, the project is also a great gift for kids who want to dive into engineering and programming topics, or start with driving a selfmade remote-controlled car and look behind the scenes once they're getting older.
 
@@ -33,7 +33,7 @@ Remote control:
 - Microcontroller: ESP32-C3
 - Wireless communication: 2.4 GHz (ESP-NOW protocol)
 - Joystick: Alps 10k (Playstation 4 model)
-- Power supply: 1x 18650 Li-Ion battery (3,7 V)
+- Power supply: 1x 18650 Li-Ion battery (3.7 V)
 - Power consumption: approx. 0.5 W
 
 Safety information:
