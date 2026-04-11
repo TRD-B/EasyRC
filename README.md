@@ -25,7 +25,7 @@ Vehicle:
 - Speed: max. 10 km/h
 - Steering servo: MG90S metal-gear micro servo
 - Power supply: 3x 18650 Li-Ion battery (11.1 V)
-- Power consumption: approx. 0,8 W (idle); approx. 3-6 W (driving)
+- Power consumption: approx. 0.8 W (idle); approx. 3-6 W (driving)
 
 Remote control:
 - Size: 80x40x41 mm³ (LxWxH)
