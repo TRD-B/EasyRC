@@ -4,7 +4,7 @@
 
 Description
 ---
-EasyRC is an easy-to-build platform for creating your own remote-controlled vehicle. The platform includes CAD files for printing an affordable 1:16 scale car as well as a small remote control. Further, it includes the project and production files for the printed circuit boards that are needed to power these devices. Last but not least, it lists all required components in a bill of materials and comes with a complete instruction manual that shows how to print, solder, assemble, program, and adjust everything for running the car.
+EasyRC is an easy-to-build platform for creating your own remote-controlled vehicle. The platform includes CAD files for printing an affordable 1:16 scale car as well as a small remote control. Further, it includes the project and production files for the printed circuit boards that are needed to power these devices. Last but not least, it lists all required components in a bill of materials and comes with a complete instruction manual that shows how to print, solder, assemble, program, and adjust everything for running the car. The legacy folder contains data and information from previous revisions of the project.
 
 The idea of this platform is to serve as a starting point for people who are interested in DIY hobby electronics as well as 3D printing, but were reluctant so far due to the initial burdens that are associated with the complexity of these topics. Hence, EasyRC offers a simple start for beginners, but due to its open-source character, it offers full freedom to tweak, redesign, and reprogram all parts of the project.
 
